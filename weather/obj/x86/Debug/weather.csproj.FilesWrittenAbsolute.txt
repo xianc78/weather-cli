@@ -1,0 +1,5 @@
+/home/nathan/Projects/weather/weather/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/nathan/Projects/weather/weather/bin/Debug/weather.pdb
+/home/nathan/Projects/weather/weather/bin/Debug/weather.exe
+/home/nathan/Projects/weather/weather/obj/x86/Debug/weather.exe
+/home/nathan/Projects/weather/weather/obj/x86/Debug/weather.pdb
